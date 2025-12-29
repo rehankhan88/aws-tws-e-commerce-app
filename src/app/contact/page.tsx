@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 const ContactPage = () => {
   return (
     <div className="max-w-[900px] mx-auto pt-10 pb-20 px-default">
-      <h1 className="text-center font-semibold text-3xl md:5xl">Contact</h1>
+      <h1 className="text-center font-semibold text-3xl md:5xl">Rehan Khan</h1>
       <div className="flex gap-7 mt-6 flex-col-reverse md:flex-row">
         <div className="left w-full md:w-2/5">
           <div>
